@@ -3,7 +3,7 @@
 Landing page responsiva desenvolvida em HTML/CSS puro.
 
 <img src="images/responsividade.gif" alt="landing page responsividade">
-<br /><br /><br />
+<br /><br />
 <b>Versão Desktop</b>
 <br />
 <img src="images/Desktop.png" alt="landing page desktop">
